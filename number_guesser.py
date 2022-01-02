@@ -18,7 +18,7 @@ else:
 # gera números aleatórios from 0 to top_of_range
 randon_number = random.randint(0, top_of_range)
 
-# variável do número de tentativas
+# variável do número de tentativas do usuário
 guesses = 0
 
 while True:
